@@ -2,7 +2,7 @@
 
 ChitChat is a real-time chat application built with Flask and Socket.IO. It allows users to create and join chat rooms, send messages in real-time, and communicate with other users securely.
 
-![ChitChat Screenshot](https://via.placeholder.com/800x400?text=ChitChat+Screenshot)
+![ChitChat Screenshot](SS1.PNG)
 
 ## Features
 
