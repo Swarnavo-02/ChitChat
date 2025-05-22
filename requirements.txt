@@ -4,7 +4,6 @@ python-socketio
 python-engineio
 bidict
 simple-websocket
-werkzeug
 jinja2
 click
 blinker
