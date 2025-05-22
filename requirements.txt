@@ -1,6 +1,12 @@
 flask
 flask-socketio
 python-socketio
-python-engine
+python-engineio
 bidict
 simple-websocket
+werkzeug
+jinja2
+click
+blinker
+itsdangerous
+markupsafe
