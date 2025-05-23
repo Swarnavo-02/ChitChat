@@ -26,8 +26,8 @@ ChitChat is a real-time chat application built with Flask and Socket.IO. It allo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/chitchat.git
-cd chitchat
+git clone https://github.com/Swarnavo-02/ChitChat.git
+cd ChitChat
 ```
 
 2. Install the required dependencies:
